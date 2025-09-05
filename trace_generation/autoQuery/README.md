@@ -1,0 +1,2 @@
+# autoQuery
+usage: `./work.sh`
